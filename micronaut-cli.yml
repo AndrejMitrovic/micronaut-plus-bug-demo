@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: spock
+sourceLanguage: groovy
+buildTool: gradle
+features: [annotation-api, app-name, aws-lambda, gradle, groovy, groovy-application, logback, readme, shade, spock, yaml]
